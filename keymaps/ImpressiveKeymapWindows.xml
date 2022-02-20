@@ -342,6 +342,9 @@
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc" />
+  <action id="QuickList.trsyytrywrh">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_down" />
   </action>
