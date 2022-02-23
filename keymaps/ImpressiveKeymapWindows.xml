@@ -393,7 +393,9 @@
   <action id="RiderUnitTestRemoveElementsFromSessionTwAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />
-  <action id="RiderUnitTestRunContextTwAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="RiderUnitTestRunContextUntilFailAction" />
   <action id="RiderUnitTestRunCurrentSessionAction" />
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
