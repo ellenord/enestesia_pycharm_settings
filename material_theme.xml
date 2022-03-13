@@ -7,6 +7,7 @@
     <option name="styledDirectories" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="allowDataCollection" value="true" />
+    <option name="autoResetColorScheme" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isActiveBoldTab" value="true" />
@@ -22,7 +23,7 @@
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="14" />
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="DEEPOCEAN" />
