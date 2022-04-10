@@ -22,6 +22,10 @@
           <option name="url" value="http://dev.azure.com/TradingForge/Advanced" />
           <option name="userName" value="TradingForge" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ellenord/chess_engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ellen\RiderProjects" />
