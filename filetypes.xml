@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="temp" type="AUTO_DETECTED" />
       <mapping pattern="code" type="AUTO_DETECTED" />
+      <mapping pattern="FAQ" type="AUTO_DETECTED" />
+      <mapping pattern="TOKEN" type="AUTO_DETECTED" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
