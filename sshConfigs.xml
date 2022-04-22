@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;},&quot;serverAliveInterval&quot;:300}" host="34.116.87.208" id="4e871613-5ef0-4342-a21c-956fa2b874b6" keyPath="$USER_HOME$/Downloads/trading-bot.ppk" port="22" nameFormat="DESCRIPTIVE" username="trading-bot" />
+      <sshConfig authType="PASSWORD" host="localhost" id="69d61b63-e0c3-4853-9cc7-63aa4a806bd5" port="42009" nameFormat="DESCRIPTIVE" username="D3T92AbI" useOpenSSHConfig="false" />
     </configs>
   </component>
 </application>
