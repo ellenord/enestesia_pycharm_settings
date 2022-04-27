@@ -348,8 +348,12 @@
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_down" />
   </action>
-  <action id="ReSharperGotoNextErrorInSolution" />
-  <action id="ReSharperGotoPrevErrorInSolution" />
+  <action id="ReSharperGotoNextErrorInSolution">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="ReSharperGotoPrevErrorInSolution">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="ReSharperNavigateTo">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
