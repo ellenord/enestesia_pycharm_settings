@@ -262,9 +262,13 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoNextBookmark" />
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
   <action id="GotoPreviousBookmark" />
-  <action id="GotoPreviousError" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="GotoRelated" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_up" />
@@ -342,9 +346,6 @@
   <action id="QuickEvaluateExpression" />
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc" />
-  <action id="QuickList.trsyytrywrh">
-    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
-  </action>
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="windows" second-keystroke="page_down" />
   </action>
@@ -393,9 +394,7 @@
   <action id="RiderUnitTestRemoveElementsFromSessionTwAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />
-  <action id="RiderUnitTestRunContextTwAction">
-    <keyboard-shortcut first-keystroke="f6" />
-  </action>
+  <action id="RiderUnitTestRunContextTwAction" />
   <action id="RiderUnitTestRunContextUntilFailAction" />
   <action id="RiderUnitTestRunCurrentSessionAction" />
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
