@@ -3,5 +3,8 @@
     <account name="DreamRevolver" id="f9a730d3-0014-412f-aa51-14af47c18f12">
       <server host="github.com" />
     </account>
+    <account name="Ellenord" id="26f99e2a-9b79-40c7-8e0a-de867f1416e7">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
