@@ -1,8 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
   </component>
 </application>
