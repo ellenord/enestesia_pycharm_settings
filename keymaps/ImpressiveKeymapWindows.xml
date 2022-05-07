@@ -320,6 +320,9 @@
   <action id="NextTab" />
   <action id="OpenExceptionSettings" />
   <action id="OpenInRightSplit" />
+  <action id="OpenRemoteDevelopment">
+    <keyboard-shortcut first-keystroke="ctrl alt multiply" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl u" />
   </action>
