@@ -81,13 +81,17 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
-  <action id="CodeStream.AddComment" />
+  <action id="CodeStream.AddComment">
+    <keyboard-shortcut first-keystroke="ctrl multiply" />
+  </action>
   <action id="CodeStream.CopyPermalink" />
   <action id="CodeStream.CreateIssue">
     <keyboard-shortcut first-keystroke="ctrl decimal" />
   </action>
   <action id="CodeStream.CreateReview" />
-  <action id="CodeStream.GetPermalink" />
+  <action id="CodeStream.GetPermalink">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
   <action id="CodeStream.NewMergeRequest" />
   <action id="CodeStream.NewPullRequest" />
   <action id="CodeStream.StartWork" />
@@ -276,6 +280,9 @@
   </action>
   <action id="GotoTypeDeclaration" />
   <action id="GotoUrlAction" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="HelpTopics" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows">
@@ -283,6 +290,9 @@
   </action>
   <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="ImplementMethods" />
   <action id="IncrementalSearch" />
   <action id="InsertLiveTemplate" />
