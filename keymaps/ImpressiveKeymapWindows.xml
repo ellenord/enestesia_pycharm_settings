@@ -83,7 +83,9 @@
   </action>
   <action id="CodeStream.AddComment" />
   <action id="CodeStream.CopyPermalink" />
-  <action id="CodeStream.CreateIssue" />
+  <action id="CodeStream.CreateIssue">
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  </action>
   <action id="CodeStream.CreateReview" />
   <action id="CodeStream.GetPermalink" />
   <action id="CodeStream.NewMergeRequest" />
