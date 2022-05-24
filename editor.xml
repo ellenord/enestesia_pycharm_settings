@@ -51,6 +51,7 @@
     <option name="CARET_BLINKING_PERIOD" value="128" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
   </component>
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
@@ -64,12 +65,6 @@
         <option value="ObjectiveC" />
       </set>
     </option>
-  </component>
-  <component name="NameBasedRelationSettings">
-    <option name="fkRules">
-      <set />
-    </option>
-    <FK_RULES />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
