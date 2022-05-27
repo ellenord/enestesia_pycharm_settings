@@ -4,7 +4,7 @@
     <property name="created">2021-12-20T03:09:48</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2022-04-25T13:34:27</property>
+    <property name="modified">2022-05-27T21:01:12</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3108,7 +3108,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
