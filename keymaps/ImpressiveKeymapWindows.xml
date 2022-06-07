@@ -389,6 +389,9 @@
   <action id="RiderCollapseToDefinitions">
     <keyboard-shortcut first-keystroke="ctrl alt c" second-keystroke="d" />
   </action>
+  <action id="RiderEditSource">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="RiderNuGetQuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
@@ -508,6 +511,9 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
   </action>
