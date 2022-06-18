@@ -74,5 +74,31 @@
     </pattern>
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;COMPLETED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="3fff1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_TYPE" value="5" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;IGNORED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ff3f1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PLANNED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="3f7fff" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;DISCUSSED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ff7f1f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;PROGRESSED)(\W|$)(.*)">
+      <option name="FOREGROUND" value="ffff7f" />
+      <option name="BACKGROUND" value="3f3f3f" />
+      <option name="FONT_TYPE" value="3" />
+    </pattern>
   </component>
 </application>
