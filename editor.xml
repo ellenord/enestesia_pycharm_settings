@@ -17,7 +17,7 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="100" />
+    <option name="AUTOREPARSE_DELAY" value="128" />
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
@@ -44,10 +44,11 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
-    <option name="TOOLTIPS_DELAY_MS" value="100" />
+    <option name="TOOLTIPS_DELAY_MS" value="128" />
     <option name="CARET_BLINKING_PERIOD" value="128" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
@@ -65,6 +66,14 @@
         <option value="ObjectiveC" />
       </set>
     </option>
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_ENTER" value="false" />
+    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
@@ -100,5 +109,8 @@
       <option name="BACKGROUND" value="3f3f3f" />
       <option name="FONT_TYPE" value="3" />
     </pattern>
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
