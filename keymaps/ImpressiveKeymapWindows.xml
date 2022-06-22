@@ -46,6 +46,9 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AssemblyDiffAction">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl i" />
   </action>
@@ -60,11 +63,21 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.Diff">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="ChangesView.Move" />
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl r" />
   </action>
   <action id="ChangesView.Revert">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="ChangesView.RevertFiles">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="ChangesView.SingleClickPreview">
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
@@ -111,6 +124,12 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
+  <action id="CommitView.ShowOnDoubleClick.EditorPreview">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="CommittedChanges.Revert">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.DbmsOutput" />
   <action id="Console.Execute.Multiline" />
@@ -144,12 +163,22 @@
   <action id="DatabaseView.DropAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.SqlGenerator" />
+  <action id="DatabaseView.Tools.RevertChanges" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
+  <action id="Diff.ShowStandaloneDiff">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="DirDiffMenu.EnableNotEqual">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource" />
   <action id="EditorAddCaretPerSelectedLine" />
@@ -248,6 +277,9 @@
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl l" />
+  </action>
+  <action id="GitShowDiffWithBranchAction">
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="GitToolBox.BlameDetails" />
   <action id="GotoAction" />
@@ -514,14 +546,32 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Diff.ShowDiffInEditorTab">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Vcs.Log.ShowDiffPreview">
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.RevertSelectedChanges">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
   <action id="Vcs.ShowMessageHistory" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl u" />
   </action>
