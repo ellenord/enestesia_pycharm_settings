@@ -1,0 +1,8 @@
+<list display="UTILITY">
+  <action id="Diff.ShowDiff" />
+  <action id="OptimizeImports" />
+  <action id="ChangesView.Revert" />
+  <action id="ReformatCode" />
+  <action id="LocalHistory.ShowHistory" />
+  <action id="RenameFile" />
+</list>
