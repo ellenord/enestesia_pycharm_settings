@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;},&quot;serverAliveInterval&quot;:300}" host="34.116.87.208" id="4e871613-5ef0-4342-a21c-956fa2b874b6" keyPath="$USER_HOME$/Downloads/trading-bot.ppk" port="22" nameFormat="DESCRIPTIVE" username="trading-bot" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.50.169" id="560d6faf-4ed6-4ad9-8259-06779f77580c" port="52131" nameFormat="DESCRIPTIVE" username="PeZn09o3" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="100.100.153.149" id="6ff54ad7-3993-4a2d-ba07-8ef50b5fd4f9" localPort="50817" port="80" nameFormat="DESCRIPTIVE" username="MYzO751q" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
