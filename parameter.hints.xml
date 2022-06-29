@@ -6,6 +6,7 @@
       </blacklist>
     </blacklists>
     <disabledLanguages>
+      <language id="TypeScript" />
       <language id="ObjectiveC" />
     </disabledLanguages>
   </component>
