@@ -1,0 +1,7 @@
+<list display="MyQuickList">
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="ChangesView.Revert" />
+  <action id="Diff.ShowDiff" />
+  <action id="QuickList.$Separator$" />
+  <action id="InspectCode" />
+</list>
