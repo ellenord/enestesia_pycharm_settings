@@ -1,0 +1,6 @@
+<application>
+  <component name="JupyterDSSettings" isCellToolbarShown="true">
+    <option name="cellToolbarShown" value="true" />
+    <option name="showInlineValues" value="true" />
+  </component>
+</application>
