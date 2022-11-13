@@ -484,6 +484,9 @@
     <keyboard-shortcut first-keystroke="ctrl b" second-keystroke="enter" />
   </action>
   <action id="ToggleTemporaryLineBreakpoint" />
+  <action id="Tool_External Tools_css">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="TurnOffF10WinShortcut" />
   <action id="TypeHierarchy" />
   <action id="UML.ShowChanges" />
