@@ -2,7 +2,7 @@
   <tool name="css" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="python" />
-      <option name="PARAMETERS" value="$USER_HOME$/PycharmProjects/temp/main.py $FilePath$ $SelectionStartLine$ $SelectionStartColumn$ $SelectionEndLine$ $SelectionEndColumn$ C:\Users\ellen\PycharmProjects\temp\rules" />
+      <option name="PARAMETERS" value="$USER_HOME$/PycharmProjects/temp/css.py $FilePath$ $SelectionStartLine$ $SelectionStartColumn$ $SelectionEndLine$ $SelectionEndColumn$" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/temp" />
     </exec>
   </tool>
