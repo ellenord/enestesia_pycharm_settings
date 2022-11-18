@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="python" />
       <option name="PARAMETERS" value="$USER_HOME$/PycharmProjects/temp/css.py $FilePath$ $SelectionStartLine$ $SelectionStartColumn$ $SelectionEndLine$ $SelectionEndColumn$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/temp" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ellen/PycharmProjects/temp" />
     </exec>
   </tool>
 </toolSet>
