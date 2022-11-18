@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'master'" />
-    <option name="defaultScopeName" value="Project 'master'" />
+    <option name="customScope" value="Project 'Steve'" />
+    <option name="defaultScopeName" value="Project 'Steve'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'master'" />
+    <option name="SEARCH_SCOPE" value="Project 'Steve'" />
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
