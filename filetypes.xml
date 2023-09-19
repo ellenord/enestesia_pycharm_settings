@@ -7,13 +7,14 @@
       <mapping pattern="ROOMS" type="AUTO_DETECTED" />
       <mapping pattern="FAQ" type="AUTO_DETECTED" />
       <mapping pattern="TOKEN" type="AUTO_DETECTED" />
-      <mapping ext="new" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tfignore" approved="true" type=".tfignore" />
